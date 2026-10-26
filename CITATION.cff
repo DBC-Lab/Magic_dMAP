@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "MAGIC-dMAP: Multiple Atlases and Granularities for Multisite Autism Prediction"
+message: "If you use MAGIC-dMAP, please cite the associated manuscript and the atlas references in docs/ATLAS_REFERENCES.md."
+type: software
+version: 0.1.0
+date-released: 2026-10-25
+repository-code: "https://github.com/<account>/MAGIC-dMAP"
+authors:
+  - name: "MAGIC-dMAP contributors"

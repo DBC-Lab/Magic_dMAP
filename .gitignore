@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+
+# Local data and generated artifacts
+data/
+derivatives/
+outputs/
+runs/
+checkpoints/
+*.h5
+*.hdf5
+*.nii
+*.nii.gz
+*.pt
+*.pth
+*.1D
+*.csv
+!configs/*.csv
+!configs/*.tsv

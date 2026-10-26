@@ -1,0 +1,6 @@
+key	expected_filename	role	included_in_coarse_branch	fine_branch_option
+aal	aal.nii.gz	Automated Anatomical Labeling	true	no
+cc400	cc400.nii.gz	Craddock 400	true	cc400
+dosenbach160	dosenbach160.nii.gz	Dosenbach 160	true	no
+ez	ez.nii.gz	Eickhoff-Zilles	true	ez
+ho	ho.nii.gz	Harvard-Oxford	true	no
